@@ -1,11 +1,206 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
+metafile = true
+
+[[files]]
+file = "mods/apple-skins.pw.toml"
+hash = "ae43513fa5d7eb4998d95ac3c8b9669a4c4a5bcff7e79756e968dce89339b2ea"
+metafile = true
+
+[[files]]
+file = "mods/arborfirmacraft-(afc).pw.toml"
+hash = "8340c875985b3054c4f5a49ebc69ceff5234b9eeb74b2fe28ac2ba7adcef79ed"
+metafile = true
+
+[[files]]
+file = "mods/astikorcarts-redux.pw.toml"
+hash = "ae56960397cf0e01f21b448093590643ad70bb390da44732ca46dc5261f4d536"
+metafile = true
+
+[[files]]
+file = "mods/barrels-2012.pw.toml"
+hash = "11bf26e24ae18d9161d889a5ad0c6fceddd01ff9b44605021cab251fd8c2c573"
+metafile = true
+
+[[files]]
+file = "mods/corals-tfc.pw.toml"
+hash = "c34d128ec14caa4349c150f3f42e71f0d503739d5c289c679fd8a60f953b7d54"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
+metafile = true
+
+[[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "4fa25309ea7f4f7770ce6588f39711e891d39f70ae0906b842647273a9ce0448"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "590437e0f344c87791842b791a400e95ffd4154f02a04c2d8d78b43a76c659ad"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "73360e397134d238ee8fd21d33fd7f9275e9441f74f8f1b6ed92278877c0b9f1"
+metafile = true
+
+[[files]]
+file = "mods/firmalife.pw.toml"
+hash = "50199b1e269afea992e8140027089ff1dce59a596959c1222562286414bca2c6"
+metafile = true
+
+[[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "91875c996a9958aeea794843fb449915218625f52aaf0234ccd1faffa887e277"
+metafile = true
+
+[[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "ab503e89461dff879ee793253e173625b6ab868f570a371323ef725e567cf5ea"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "b6e0a61fea06f8d6d8e1672cf07b682625c4b74efd548d5093cd9c1fed167eec"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
+metafile = true
+
+[[files]]
+file = "mods/justenoughcharacters.pw.toml"
+hash = "72b3206ba8e650db2089634763e7b742a828ee8f8f8a4766348c3a99411d16c4"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
+file = "mods/kubejs-tfc.pw.toml"
+hash = "35cb8bc201aefc4b0cbee8ca3240087f7eca03b01f7281392297f68222ebf642"
+metafile = true
+
+[[files]]
+file = "mods/kubejs.pw.toml"
+hash = "99bea71046529d65463fc12acb505ab363c91133ebbcc1d976e49a5d33150702"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "6b91f46291891e725189b0bd54d0db0f66925b1e785bdfa737592dfcf41a79a3"
+metafile = true
+
+[[files]]
+file = "mods/terrafirmacraft-anvilhelper.pw.toml"
+hash = "dfd907584dd261da285c74186a7ecadc5a77a813031d239eef683f807a6eb94d"
+metafile = true
+
+[[files]]
 file = "mods/terrafirmacraft.pw.toml"
 hash = "d8003d4522b783dd1c2a231142fae031a5a9ebcb64db4fdddf424e51f2b16f56"
+metafile = true
+
+[[files]]
+file = "mods/terrafirmathings-continued.pw.toml"
+hash = "e3db825b24f2870b8e6534647bd3ba5aa0b509b1611bf8f21d83ab5427e5423c"
+metafile = true
+
+[[files]]
+file = "mods/tfc-astikor-carts.pw.toml"
+hash = "ee3f7f2a132e5bf3ebf3b71732d9994d2bcae1aedb5867329a290faa1a87fb79"
+metafile = true
+
+[[files]]
+file = "mods/tfc-hammer-time-(unofficial-port).pw.toml"
+hash = "7f827c28ec24fd6e3296f90b3149532d67924eab1dd6a4d92d6d7aa3b7a4eba4"
+metafile = true
+
+[[files]]
+file = "mods/tfc-hot-or-not.pw.toml"
+hash = "3ed1a502239d4d9daf9e5806a62cc072c6162f2bfa6bef3a5b5c6c212be22a44"
+metafile = true
+
+[[files]]
+file = "mods/tfc-ie-crossover.pw.toml"
+hash = "b69f7042fff2400e4fb05f2cfc6f4e09ab155c1a20e547bc32bdf16ebe8a3358"
+metafile = true
+
+[[files]]
+file = "mods/tfc-registry-api.pw.toml"
+hash = "49b6c30d5a476c0b734127c73552a437b80354afb7d95b561db50029605819f2"
+metafile = true
+
+[[files]]
+file = "mods/tfc-ruins.pw.toml"
+hash = "ba4b16ad80dbf85bcde5b8935119b01cb99493d13eac12afee510da869ab5b90"
+metafile = true
+
+[[files]]
+file = "mods/tfc-support-indicator.pw.toml"
+hash = "10bd34de2a963b7bf8d7dc711ca9c560521ae789e28eb81d40d983d6fc18eb4b"
+metafile = true
+
+[[files]]
+file = "mods/tfc-vessel-tooltip.pw.toml"
+hash = "4e9142d9fc1d7d1a056d77380bd625436233f9b0253a09990c037e9b31772a83"
+metafile = true
+
+[[files]]
+file = "mods/world-preview-terrafirmacraft.pw.toml"
+hash = "68897a27ecd9d244734579eb78d81eb7b1bbaad4f10e4bc1dab2bdf8b1aa004e"
+metafile = true
+
+[[files]]
+file = "mods/xaeroplus.pw.toml"
+hash = "082ff2e8d4eb4fd4cfd609eea766bc9d3f8b51ecc87457942c926cdd992c9f55"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "d609fad21021c5578750019bbe247515af55b0d1284ef838e42ef4ad0d5fbff4"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "ac287f392613eddfa285620dcecb3fea25ee6232a201009cde5c5511b6a39fb9"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xaero-xaeros-world-map-chinese-localization-package.pw.toml"
+hash = "1c0271a068a57b6b83804225b4c512fc6d2371440862da1cc937139d6444a198"
 metafile = true

@@ -1,0 +1,13 @@
+name = "KubeJS TFC"
+filename = "kubejs_tfc-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mhtClB2S/versions/ildaMhZj/kubejs_tfc-1.21.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "f83e216a5a8e13acf1d99feab2a81970a361b35196e52c33839c4d0d86f91dac72d35ef545cee2cbb1b2b1316e9e46ce596350177d4fa3ac7ae697e6968144ac"
+
+[update]
+[update.modrinth]
+mod-id = "mhtClB2S"
+version = "ildaMhZj"

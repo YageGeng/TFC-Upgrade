@@ -1,0 +1,13 @@
+name = "TFC Hammer Time: (Unofficial Port)"
+filename = "tfc_hammer_time-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L7qzP4jg/versions/UtzJgmMK/tfc_hammer_time-1.0.1.jar"
+hash-format = "sha512"
+hash = "d2deb38d50de58e40d39c01011e5eb47dcbc0630db1e22125fdb132df2ce3a95054193acb2cbf8f60924fae40574ba537a4762cdd89f73fce4c5192a27801a23"
+
+[update]
+[update.modrinth]
+mod-id = "L7qzP4jg"
+version = "UtzJgmMK"

@@ -1,0 +1,13 @@
+name = "TFC Hot or Not"
+filename = "TFCHotOrNot-1.21.1-1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6fOyWxrE/versions/YtVlCFtf/TFCHotOrNot-1.21.1-1.2.jar"
+hash-format = "sha512"
+hash = "fc70246e88c26f841fe652b67326eaa7f69dab88ef6d3a224dba24b97156b7f73280665bd8a2e272f61a11b0803e0dac1563efc81da13b218d6c6397fd644b10"
+
+[update]
+[update.modrinth]
+mod-id = "6fOyWxrE"
+version = "YtVlCFtf"

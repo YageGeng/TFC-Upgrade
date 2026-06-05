@@ -1,0 +1,13 @@
+name = "JustEnoughCharacters"
+filename = "jecharacters-1.21-neoforge-4.5.24.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/I7k4B65h/versions/3nbWpWyl/jecharacters-1.21-neoforge-4.5.24.jar"
+hash-format = "sha512"
+hash = "94136da605f5bdd48ea75b222300051ad88a0fff82ec96314651e879a27601374fa4a0aa0d8d77937b4cfb4ce4ec8bd106949a03b4d4d6fcff2e221e372ae270"
+
+[update]
+[update.modrinth]
+mod-id = "I7k4B65h"
+version = "3nbWpWyl"

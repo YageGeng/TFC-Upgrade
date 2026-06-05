@@ -1,0 +1,13 @@
+name = "Xaero的地图汉化包 Xaero's World Map Chinese Localization Package"
+filename = "xaero地图汉化包 (1).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mAMFZ4Lu/versions/7lXkUVJy/xaero%E5%9C%B0%E5%9B%BE%E6%B1%89%E5%8C%96%E5%8C%85%20%281%29.zip"
+hash-format = "sha512"
+hash = "c04a7ebf883933b655f88251e46c2d4556fa6b1a0d0c95c8ca6f38e0435e3c0f2ddad65f3714686ec92dc34ed329e98b65684f3c5bd4f9865bf091187f497f80"
+
+[update]
+[update.modrinth]
+mod-id = "mAMFZ4Lu"
+version = "7lXkUVJy"
