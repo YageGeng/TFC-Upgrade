@@ -1,0 +1,10 @@
+# This file is an example only; copy it before using it on a real server.
+level-name=tfc-upgrade
+motd=TFC-Upgrade
+online-mode=true
+allow-flight=true
+view-distance=10
+simulation-distance=8
+difficulty=hard
+spawn-protection=0
+max-players=20

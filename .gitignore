@@ -1,0 +1,23 @@
+# Generated release artifacts should be rebuilt from packwiz metadata.
+releases/
+*.mrpack
+*.zip
+
+# Local launcher/runtime state does not belong in source control.
+pack/.minecraft/
+pack/logs/
+pack/crash-reports/
+pack/saves/
+pack/screenshots/
+pack/options.txt
+pack/servers.dat
+pack/usercache.json
+
+# Downloaded mod jars are represented by packwiz metadata instead.
+pack/mods/*.jar
+
+# OS and editor noise.
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
