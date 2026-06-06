@@ -2,11 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "kubejs/assets/afc/lang/zh_cn.json"
-hash = "a0750e7e74ca1598d9fc2dd02a3d4cc7227ec004dcb0530a85105e505bf0ee56"
-
-[[files]]
-file = "kubejs/assets/firmalife/lang/zh_cn.json"
-hash = "1f0bc1c0060d431c4c78c683d35e675c63e9ef5dbbbbaf8185c5f27f2711c2f7"
+hash = "ad5cdd19ffd1a6db379c383ae6da779151fa9ef781dbd75e49faefe1ac88852b"
 
 [[files]]
 file = "kubejs/assets/jei/lang/zh_cn.json"
@@ -27,6 +23,10 @@ hash = "00dce65ce5784b96b44c570eddfb80278480af04ddc7d5865dc4e8bde1a6a95a"
 [[files]]
 file = "kubejs/server_scripts/src/loot/ore.js"
 hash = "b6dc4efc499ff01e6ac8b4f1d86aeb2574d8910435e4403db54753986cb47e13"
+
+[[files]]
+file = "kubejs/server_scripts/src/recipes/enchanting_table.js"
+hash = "62befb9f580133987b7a94665e2f18d963548c1be91761e3db72b42b6fdd3cb5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -66,6 +66,11 @@ metafile = true
 [[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
+metafile = true
+
+[[files]]
+file = "mods/copy-block-id.pw.toml"
+hash = "44ddc5ecc2f87c391fd56da8a52426ab6bf096b75f04efe014f4c54f3e85d525"
 metafile = true
 
 [[files]]
