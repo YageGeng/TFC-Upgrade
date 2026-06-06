@@ -37,7 +37,6 @@
 
 | Mod | 版本 | 作用域 | 说明 |
 | --- | --- | --- | --- |
-| Apple Skins | `1.4.0` | Client + Server | 显示食物与营养相关信息。 |
 | Jade | `1.21.1-NeoForge-15.10.5` | Client + Server | 方块和实体信息提示。 |
 | Just Enough Items (JEI) | `1.21.1-neoforge-19.27.0.340` | Client + Server | 配方查看和物品查询。 |
 | JustEnoughCharacters | `1.21-neoforge-4.5.24` | Client | 为 JEI 增加中文拼音/字符搜索支持。 |

@@ -6,11 +6,6 @@ hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
 
 [[files]]
-file = "mods/apple-skins.pw.toml"
-hash = "ae43513fa5d7eb4998d95ac3c8b9669a4c4a5bcff7e79756e968dce89339b2ea"
-metafile = true
-
-[[files]]
 file = "mods/arborfirmacraft-(afc).pw.toml"
 hash = "8340c875985b3054c4f5a49ebc69ceff5234b9eeb74b2fe28ac2ba7adcef79ed"
 metafile = true
