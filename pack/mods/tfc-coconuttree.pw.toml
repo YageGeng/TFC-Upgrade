@@ -1,0 +1,13 @@
+name = "TFCCoconutTree"
+filename = "TFC-CoconutTree-neoforge-1.21.1-0.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "660c1d852d61fc06a011f110eb3db224a7453470"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7862884
+project-id = 1502596

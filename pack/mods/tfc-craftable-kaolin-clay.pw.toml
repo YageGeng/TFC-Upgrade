@@ -1,0 +1,13 @@
+name = "TFC: Craftable Kaolin Clay"
+filename = "tfcckc-1.5.1-neoforge-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2734a9f04396436c3b6176034787f82cefe58cb7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7640156
+project-id = 1297117

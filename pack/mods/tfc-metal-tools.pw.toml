@@ -1,0 +1,13 @@
+name = "TFC Metal Tools"
+filename = "tfc_metal_tools-1.21.1-neoforge-1.0.7.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c31024dfd5d452674f4734d8d98f002fa6f7ab2b"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7729362
+project-id = 1190858

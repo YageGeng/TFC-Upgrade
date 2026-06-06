@@ -1,0 +1,13 @@
+name = "Powered TFC"
+filename = "poweredtfc-0.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5b7c21a970042255966b4b6f81220bccc5483d6e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7623030
+project-id = 1457886

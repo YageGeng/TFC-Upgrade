@@ -1,0 +1,13 @@
+name = "WoodenCog"
+filename = "woodencog-1.2.18-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c8ce78cc63d73ecf0f10a95fc9b2a93b5dcea67f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8177048
+project-id = 1179785

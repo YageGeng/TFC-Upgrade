@@ -26,6 +26,11 @@ hash = "11bf26e24ae18d9161d889a5ad0c6fceddd01ff9b44605021cab251fd8c2c573"
 metafile = true
 
 [[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "65c8086d2ec3d39acc7bd36c7a0306ccc43b602b38fa07d13291bc478ef7dfff"
 metafile = true
@@ -33,6 +38,16 @@ metafile = true
 [[files]]
 file = "mods/corals-tfc.pw.toml"
 hash = "c34d128ec14caa4349c150f3f42e71f0d503739d5c289c679fd8a60f953b7d54"
+metafile = true
+
+[[files]]
+file = "mods/crafting-bundle-suitable-for-tfc.pw.toml"
+hash = "13e172f625bc57e72980ad560c0704aef7c1bf0323b136fd10cfc6d3311a23a5"
+metafile = true
+
+[[files]]
+file = "mods/create.pw.toml"
+hash = "4b0ca63279620ec9ba4c63820a9d4f9ceea9b717227137ea19e5c420c820f858"
 metafile = true
 
 [[files]]
@@ -96,8 +111,28 @@ hash = "72b3206ba8e650db2089634763e7b742a828ee8f8f8a4766348c3a99411d16c4"
 metafile = true
 
 [[files]]
+file = "mods/kaleidoscope-cookery.pw.toml"
+hash = "8dc4a102a7958e4aa522da623413c2ef6dde923fae8f4b1365f0627e57f7293e"
+metafile = true
+
+[[files]]
+file = "mods/kaleidoscope-tfc-cookery.pw.toml"
+hash = "a63b2285f6f3519e7a72a9517875a299fa89f4b218026bb5b00a39fffb32bec4"
+metafile = true
+
+[[files]]
+file = "mods/kiwi.pw.toml"
+hash = "e3b291c04643b91eb5f4b963d07267c7de2aee6ed239abc3d3f5b1ed26082b95"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
+file = "mods/kubas-tfc-additions.pw.toml"
+hash = "7e7bba429bd10dd71cfd96ce83c34ddf21cac226b02458213b3d78d903ff1aa4"
 metafile = true
 
 [[files]]
@@ -116,6 +151,11 @@ hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
 metafile = true
 
 [[files]]
+file = "mods/lychee.pw.toml"
+hash = "31c837d23b18a6283742ec38d990bacc08ea2a20b1e87cc9c81e9c08583c3aa6"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
 metafile = true
@@ -126,8 +166,18 @@ hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
 
 [[files]]
+file = "mods/musket-mod.pw.toml"
+hash = "359f98f5d3028b8f9383258479cd2852054ad3475e18621b63b50864ff5852eb"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
-hash = "d7f360ebb9f009d6dc0b368cd8fa399bdff70c0f6ef931687b2a35137f72715d"
+hash = "3718e8a37d0dc2939cc350cce74bcb9c36b59f48baf4560e62804f7ca6478185"
+metafile = true
+
+[[files]]
+file = "mods/powered-tfc.pw.toml"
+hash = "adb1d18266af54e2dbb0d92cddda71a5340bef0f2fa119b9649dd49ee0e82a90"
 metafile = true
 
 [[files]]
@@ -151,6 +201,11 @@ hash = "0281ed9713f3141bdac363056a791845510e14761ea65b4b2813cf96d664b20a"
 metafile = true
 
 [[files]]
+file = "mods/spindles-tfc.pw.toml"
+hash = "92cb06e8e12d19f546453dbfee29a311c128f4b4d76c1c40fa9f801eb7087e45"
+metafile = true
+
+[[files]]
 file = "mods/terrafirmacraft-anvilhelper.pw.toml"
 hash = "dfd907584dd261da285c74186a7ecadc5a77a813031d239eef683f807a6eb94d"
 metafile = true
@@ -171,8 +226,48 @@ hash = "ee3f7f2a132e5bf3ebf3b71732d9994d2bcae1aedb5867329a290faa1a87fb79"
 metafile = true
 
 [[files]]
+file = "mods/tfc-better-stone-tools.pw.toml"
+hash = "0032a3826f089ad076c72cffc79b36f39e9fcef21607a07025dd41ed78a308de"
+metafile = true
+
+[[files]]
+file = "mods/tfc-black-powder-weapons.pw.toml"
+hash = "2ef9d0b98406da47cdd5cab72530a5fabb20c3d31a9038184e0f39cc9307f891"
+metafile = true
+
+[[files]]
+file = "mods/tfc-cast-iron-grill.pw.toml"
+hash = "49c70cac7a506b68196e6da6d812b4c580d14c2f865be2b144ae8cfd62667b1f"
+metafile = true
+
+[[files]]
+file = "mods/tfc-coconuttree.pw.toml"
+hash = "62355b71d197cf7a48d282c434a10a0923de7807c8f582a1c5362cae5217ca01"
+metafile = true
+
+[[files]]
+file = "mods/tfc-craftable-kaolin-clay.pw.toml"
+hash = "59e5ddf47e42fb8a4b5440302d5262e0629dad7d54c642f4172c280ec6aa673e"
+metafile = true
+
+[[files]]
+file = "mods/tfc-debark.pw.toml"
+hash = "af1e2ac15164f79295e95e26bffa90ec12ab5a56ad7cb8d2803e23fdb7837617"
+metafile = true
+
+[[files]]
+file = "mods/tfc-fire-clay-addition.pw.toml"
+hash = "eaca0827e3392358be0dafa863ad65666cca8c6a4ee510d71acefdd324fc1508"
+metafile = true
+
+[[files]]
 file = "mods/tfc-hammer-time-(unofficial-port).pw.toml"
 hash = "7f827c28ec24fd6e3296f90b3149532d67924eab1dd6a4d92d6d7aa3b7a4eba4"
+metafile = true
+
+[[files]]
+file = "mods/tfc-heat-treatment.pw.toml"
+hash = "ce89ae9510d7cd8d8f97350dfa6f038018b1fd2fe09634eb6e759bba7a1eaf08"
 metafile = true
 
 [[files]]
@@ -183,6 +278,26 @@ metafile = true
 [[files]]
 file = "mods/tfc-ie-crossover.pw.toml"
 hash = "b69f7042fff2400e4fb05f2cfc6f4e09ab155c1a20e547bc32bdf16ebe8a3358"
+metafile = true
+
+[[files]]
+file = "mods/tfc-lumberjack.pw.toml"
+hash = "0dba08ff22eed77968845eb538ea0a27d57f60757ef66123f585014d4eb363c3"
+metafile = true
+
+[[files]]
+file = "mods/tfc-metal-tools.pw.toml"
+hash = "8f508d6873116d91e1208344fa63a99e9b288868bf6bd9704fdf44cb506fa236"
+metafile = true
+
+[[files]]
+file = "mods/tfc-more-items.pw.toml"
+hash = "b11bb5262eceaae7d360f097bfa20c5ae63145860198875671895de2be8537e8"
+metafile = true
+
+[[files]]
+file = "mods/tfc-ore-washing.pw.toml"
+hash = "6dc361fdf47316d4284fd19ab888a5a0f77b10e2915286ee2394898f0c96cf1c"
 metafile = true
 
 [[files]]
@@ -203,6 +318,16 @@ metafile = true
 [[files]]
 file = "mods/tfc-vessel-tooltip.pw.toml"
 hash = "4e9142d9fc1d7d1a056d77380bd625436233f9b0253a09990c037e9b31772a83"
+metafile = true
+
+[[files]]
+file = "mods/torque-link-create-to-tfc.pw.toml"
+hash = "a859eac8e48cf86ac219f8537e0da49d3c35fb9b199a5cc97852ce557dfadc37"
+metafile = true
+
+[[files]]
+file = "mods/woodencog.pw.toml"
+hash = "8245b4d0078745033f249ec53362ec5b8660c10e51d67213ecabdf46225f7c9e"
 metafile = true
 
 [[files]]

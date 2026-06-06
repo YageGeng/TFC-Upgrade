@@ -1,0 +1,13 @@
+name = "TFC Heat Treatment"
+filename = "tfcheattreatment-1.21.1neoforge-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fc7e9654c306045f0c06c27b0df18c7bdbefb998"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7950237
+project-id = 1518755

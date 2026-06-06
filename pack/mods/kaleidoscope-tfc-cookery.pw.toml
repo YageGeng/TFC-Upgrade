@@ -1,0 +1,13 @@
+name = "Kaleidoscope TFC Cookery"
+filename = "ktfcc-1.0.0-1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3bb4e3cbbfc512b081f05b76543ee75685d11f2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8158636
+project-id = 1475772
