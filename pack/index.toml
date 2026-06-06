@@ -1,6 +1,34 @@
 hash-format = "sha256"
 
 [[files]]
+file = "kubejs/assets/afc/lang/zh_cn.json"
+hash = "a0750e7e74ca1598d9fc2dd02a3d4cc7227ec004dcb0530a85105e505bf0ee56"
+
+[[files]]
+file = "kubejs/assets/firmalife/lang/zh_cn.json"
+hash = "1f0bc1c0060d431c4c78c683d35e675c63e9ef5dbbbbaf8185c5f27f2711c2f7"
+
+[[files]]
+file = "kubejs/assets/jei/lang/zh_cn.json"
+hash = "ba25422492a0dc9f9a37dcad0f3f4a25b6986ca2a5ce622d1e60d90b3f52eb36"
+
+[[files]]
+file = "kubejs/assets/tfc_hammer_time/lang/zh_cn.json"
+hash = "98131ac8d575d1bd58e6317d3f5f0b6550fd33d8612daa946087f156a15e017e"
+
+[[files]]
+file = "kubejs/assets/tfcastikorcarts/lang/zh_cn.json"
+hash = "044ee65ea9b7c674656ca75a31e75183c4eb0e99a031acef0fc2fa680d16bf18"
+
+[[files]]
+file = "kubejs/assets/tfcorewashing/lang/zh_cn.json"
+hash = "00dce65ce5784b96b44c570eddfb80278480af04ddc7d5865dc4e8bde1a6a95a"
+
+[[files]]
+file = "kubejs/server_scripts/src/loot/ore.js"
+hash = "b6dc4efc499ff01e6ac8b4f1d86aeb2574d8910435e4403db54753986cb47e13"
+
+[[files]]
 file = "mods/3dskinlayers.pw.toml"
 hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
@@ -28,6 +56,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "22286fa216349c0767808903a0a38662857d2adee54950a18cbf26c167a06029"
+metafile = true
+
+[[files]]
+file = "mods/configured.pw.toml"
+hash = "af4dc4828902eae1784568632a749fe9a442943f1570ac0ba3ea75e79934be41"
 metafile = true
 
 [[files]]
@@ -148,6 +181,11 @@ metafile = true
 [[files]]
 file = "mods/libipn.pw.toml"
 hash = "0d2a00252d64ed7d2d9b19994f7accb780304be61f3903d36e810714b414c6cb"
+metafile = true
+
+[[files]]
+file = "mods/lootjs.pw.toml"
+hash = "e42581d8eb65aa947dcbe6edb71b2082e84f31936b01f131758395d88dabc919"
 metafile = true
 
 [[files]]
